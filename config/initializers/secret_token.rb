@@ -16,4 +16,4 @@
 # Using secret_token for rails3 compatibility. Change to secret_key_base
 # to avoid deprecation warning.
 # Can be safely removed in a rails3 api-only application.
-Nichetv::Application.config.secret_token = '4bfe6f0d171324f56577ce07302e135cfbce9ee11c60fa2a574a7c6ba19d80249f38f34f265f2e26f35fc91962728a45308cb1ea02cf98f632e1c2b336707949'
+Mobileapi::Application.config.secret_token = '4bfe6f0d171324f56577ce07302e135cfbce9ee11c60fa2a574a7c6ba19d80249f38f34f265f2e26f35fc91962728a45308cb1ea02cf98f632e1c2b336707949'

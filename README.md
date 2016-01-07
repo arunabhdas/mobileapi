@@ -10,7 +10,7 @@ gem install rails-api
 
 rbenv rehash
 
-rails-api new nichetv
+rails-api new mobileapi
 
 rails g scaffold channel name
 
